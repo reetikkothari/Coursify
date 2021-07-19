@@ -1,0 +1,194 @@
+.w-100{
+    height: 500px;
+}
+.bg-light{
+    background-color:ghostwhite!important;
+}
+.navbar{
+    height: 70px;
+}
+.carousel-caption h5 {
+    color: ghostwhite;
+}
+.carousel-caption p{
+    color: ghostwhite;
+}
+.container{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: ghostwhite;
+    margin-top: 4%;
+}
+.container h2{
+    margin-top: 4%;
+    margin-bottom: 1%;
+    text-decoration: none;
+    font-size: 40px;
+}
+.container p{
+    margin-bottom: 3%;
+    margin-left: 6%;
+    margin-right: 6%;
+    font-size:25px;
+    color: grey;
+}
+.main-section{
+    position: relative;
+    background-color: black;
+    color: white;
+    width: 100%;
+    
+   
+}
+.Industries{
+    position: absolute;
+    width: 25%;
+    height: 265px;
+    border-radius: 0px;
+    background-color:#33b7ff;
+    margin-top: 3%;
+    color: black;
+    text-align: center;
+}
+.Industries h2{
+    text-decoration:none;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+.Industries p{
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 5%;
+    text-align: left;
+}
+.Services{
+    position: absolute;
+    left: 25%;
+    width: 25%;
+    height: 265px;
+    border-radius: 0px;
+    background-color:#00a4fc;
+    margin-top:3%;
+    color: black;
+    text-align: left;
+}
+.Services h2{
+    text-decoration:none;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+.Services p{
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 5%;
+    text-align: left;
+}
+.Industries h2 img{
+    padding-right: 2%;
+}
+.Services h2 img{
+    padding-right: 2%;
+}
+.Practices{
+    position: absolute;
+    left: 50%;
+    width: 25%;
+    height: 265px;
+    border-radius: 0px;
+    background-color:#33b7ff;
+    margin-top:3%;
+    color: black;
+    text-align: left;
+}
+.Practices h2{
+    text-decoration:none;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+.Practices p{
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 5%;
+    text-align: left;
+    
+}
+.Practices h2 img{
+    padding-right: 2%;
+}
+.Enterprise{
+    position: absolute;
+    left: 75%;
+    width: 25%;
+    height: 265px;
+    border-radius: 0px;
+    background-color:#00a4fc;
+    margin-top:3%;
+    color: black;
+    text-align: left;
+}
+.Enterprise h2{
+    text-decoration:none;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+.Enterprise p{
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 5%;
+    text-align: left;
+    
+}
+.Enterprise h2 img{
+    padding-right: 2%;
+}
+.about-section{
+    position: relative;
+    top: 330px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+.About-us{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    border-radius: 0px;
+    background-color:#00a4fc;
+    margin-top:3%;
+    color:white;
+    text-align: left;
+    background-image:-webkit-image-set(url(https://harbinger-systems.com/wp-content/uploads/2017/02/About-bg.webp) 1x);
+    background-attachment: scroll;
+    background-position: center center;
+}
+.About-us h2{
+    text-decoration:none;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.About-us p{
+    font-size: 20px;
+    text-align: center;
+    padding-left :90px;
+    padding-right: 90px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bottom-bar{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+    
